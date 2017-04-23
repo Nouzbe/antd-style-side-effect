@@ -1,8 +1,14 @@
 export default {
 	actions: {
-		addTodo: 'add_todo',
-		toggleTodo: 'toggle_todo',
-		setFilter: 'set_filter'
+		addTodo: 'addTodo',
+		removeTodo: 'removeTodo',
+		toggleTodo: 'toggleTodo',
+		setFilter: 'setFilter',
+		selectTab: 'selectTab',
+		addTab: 'addTab',
+		removeTab: 'removeTab',
+		renameTab: 'renameTab',
+		goto: 'goto'
 	},
 	filters: {
 		all: 'all',

@@ -7,3 +7,11 @@ body {
 html, body, #root {
 	height: 100%;
 }
+
+.soft-input {
+	border: none;
+}
+
+.soft-input:focus {
+	outline: none;
+}
