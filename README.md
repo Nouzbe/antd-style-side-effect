@@ -2,7 +2,8 @@ This repo aims at providing a simple example for [ant-design/issues/13436](https
 
 ### Summary of the issue
 
-The issue is probably related to [ant-design/issues/13169](https://github.com/ant-design/ant-design/issues/13169)
+The issue is probably related to [ant-design/issues/13169](https://github.com/ant-design/ant-design/issues/13169).
+
 Antd's css affect elements that are not necessarily rendered by antd.
 
 These side-effects are grouped in [antd-design/components/style/core/base.less](https://github.com/ant-design/ant-design/blob/master/components/style/core/base.less).
